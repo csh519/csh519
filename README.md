@@ -5,8 +5,8 @@ I'm ShinHyung Choi, developer from <img src="https://cdn-icons-png.flaticon.com/
 I interested in software security and blockchain.</p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?
-  style=flat-square&logo=Visual Studio Code&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?
+  style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
@@ -27,7 +27,7 @@ I interested in software security and blockchain.</p>
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="Apache Tomcat" src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white" />
-  <img alt="Red Hat Open Shift" src="https://img.shields.io/badge/-Red Hat Open Shift-EE0000?style=flat-square&logo=Red Hat Open Shift&logoColor=white" />
+  <img alt="Red Hat Open Shift" src="https://img.shields.io/badge/-Red%20Hat%20Open Shift-EE0000?style=flat-square&logo=Red%20Hat%20Open%20Shift&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 </p>
