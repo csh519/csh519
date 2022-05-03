@@ -2,7 +2,7 @@
 
 <p>Welcome to my page!</br>
 I'm ShinHyung Choi, software engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> <b>Seoul, South Korea</b>.</br>
-I interested in software security and blockchain.</p>
+I'm interested in software security and blockchain.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
