@@ -20,7 +20,7 @@ I interested in software security and blockchain.</p>
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
   <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white" />
   <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white" />
-  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Kafka&logoColor=white" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
   <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white" />
   <img alt="Logstash" src="https://img.shields.io/badge/-Logstash-005571?style=flat-square&logo=Logstash&logoColor=white" />
