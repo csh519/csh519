@@ -25,10 +25,6 @@ A labeled credential dataset and benchmark for developing and evaluating credent
 
 Maintainer, with contributions to dataset design, curation, and benchmarking to improve credential detection quality.
 
-## Selected technologies
-
-Python · Flask · Docker · OpenShift · GitHub Actions · Redis
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/csh519/)
